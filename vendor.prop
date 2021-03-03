@@ -62,3 +62,7 @@ ro.vendor.perf.scroll_opt=true
 
 # Radio
 persist.vendor.radio.procedure_bytes=SKIP
+
+# SoC
+ro.soc.manufacturer=Qualcomm
+ro.soc.model=MSM8953
