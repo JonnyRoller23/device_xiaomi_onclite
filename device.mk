@@ -283,6 +283,10 @@ PRODUCT_PACKAGES += \
 # ViaBrowser
 PRODUCT_PACKAGES += \
     ViaBrowser
+	
+# MiXplorer
+PRODUCT_PACKAGES += \
+    MiXplorer	
 
 # OMX
 PRODUCT_PACKAGES += \
