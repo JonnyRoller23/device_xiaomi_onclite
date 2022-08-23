@@ -275,6 +275,10 @@ PRODUCT_PACKAGES += \
 # GoogleCameraGo
 PRODUCT_PACKAGES += \
     GoogleCameraGo
+	
+# GalleryGo
+PRODUCT_PACKAGES += \
+    GalleryGo	
 
 # OMX
 PRODUCT_PACKAGES += \
