@@ -292,7 +292,11 @@ PRODUCT_PACKAGES += \
 	
 # GalleryGo
 PRODUCT_PACKAGES += \
-    GalleryGo	
+    GalleryGo
+	
+# ViaBrowser
+PRODUCT_PACKAGES += \
+    ViaBrowser
 
 # OMX
 PRODUCT_PACKAGES += \
