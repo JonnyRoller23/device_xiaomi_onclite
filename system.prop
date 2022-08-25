@@ -36,11 +36,6 @@ ro.surface_flinger.force_hwc_copy_for_virtual_displays=true
 ro.surface_flinger.max_virtual_display_dimension=4096
 vendor.display.disable_skip_validate=1
 
-# Render Engine
-debug.hwui.renderer=skiagl
-debug.renderengine.backend=skiaglthreaded
-renderthread.skia.reduceopstasksplitting=true
-
 # Media
 media.stagefright.thumbnail.prefer_hw_codecs=true
 vendor.mm.enable.qcom_parser=1048575
