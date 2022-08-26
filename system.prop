@@ -66,6 +66,13 @@ net.rmnet0.dns2=8.8.4.4
 net.dns1=1.1.1.1
 net.dns2=9.9.9.9
 
+# Better scrolling
+windowsmgr.max_events_per_sec=150
+ro.min_pointer_dur=8 
+ro.max.fling_velocity=12000
+ro.min.fling_velocity=8000
+persist.sys.scrollingcache=3
+
 # Radio
 DEVICE_PROVISIONED=1
 persist.radio.multisim.config=dsds
